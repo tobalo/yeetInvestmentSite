@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+Simple business website to theyeet.com
 
-Theme Name: NewBiz
-Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Shout out to bootstrapmade.com to help ease me solving this problem alone.
